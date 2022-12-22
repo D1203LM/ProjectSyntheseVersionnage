@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSynthese", "ProjectSynthese\ProjectSynthese.csproj", "{16FCD5F4-87F1-4A94-83AE-4859FB3DCB34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestxUnit", "TestxUnit\TestxUnit.csproj", "{1D48BB6E-7416-490D-B894-44CF0D230C0B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupZoo", "SetupZoo\SetupZoo.vdproj", "{BEC201D5-3FFE-44EB-8B52-F14DB2E7E7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FCD5F4-87F1-4A94-83AE-4859FB3DCB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FCD5F4-87F1-4A94-83AE-4859FB3DCB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FCD5F4-87F1-4A94-83AE-4859FB3DCB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FCD5F4-87F1-4A94-83AE-4859FB3DCB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D48BB6E-7416-490D-B894-44CF0D230C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D48BB6E-7416-490D-B894-44CF0D230C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D48BB6E-7416-490D-B894-44CF0D230C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D48BB6E-7416-490D-B894-44CF0D230C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC201D5-3FFE-44EB-8B52-F14DB2E7E7BA}.Debug|Any CPU.ActiveCfg = Debug
+		{BEC201D5-3FFE-44EB-8B52-F14DB2E7E7BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5105C204-29C5-4488-ADE2-9EB992B555F7}
+	EndGlobalSection
+EndGlobal
